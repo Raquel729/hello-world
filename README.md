@@ -1,5 +1,5 @@
 # **COVID-19 BRASIL**
-###Monitoramento e análises da situação do Coronavírus no Brasil
+### Monitoramento e análises da situação do Coronavírus no Brasil
 
   Esse [link](https://ciis.fmrp.usp.br/covid19/bh-mg/) acessa o portal **COVID-19 BRASIL**. Esse portal é um projeto que conta com a participação de profissionais de [diversas áreas de especialização](https://ciis.fmrp.usp.br/covid19/quem-somos/) para analisar e monitorar os dados da Covid-19. No portal, é possível encontrar de forma gráfica o número de contaminação e de óbitos diariamente. Além disso, por meio de um modelo matemático, o portal propõe [projeções estatísticas de 10 dias](https://ciis.fmrp.usp.br/covid19/exp-br/) para o número de novos casos e óbitos.
 
